@@ -121,6 +121,7 @@ nav{
     height: 24px;
     object-fit: cover;
     border-radius: 50%;
+    object-position: top center;
 }
 .nav-menu a i{
     font-size: 12px;
@@ -179,6 +180,7 @@ main{
     object-fit: cover;
     position: absolute;
     top: 13px;
+    object-position: top center;
 }
 .side-1-prof-details{
     padding: 10px;
@@ -283,6 +285,7 @@ font-weight: 600;
     height: 48px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: top center;
 }
 .center-1-1 div{
     height: 46px;
@@ -355,6 +358,7 @@ hr{
             height: 48px;
             border-radius: 50%;
             object-fit: cover;
+            object-position: top center;
 }
 .post-head{
     display: flex;
